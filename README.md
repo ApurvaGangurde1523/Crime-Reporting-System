@@ -1,1 +1,2 @@
 # Crime-Reporting-System
+This web-based Crime Reporting System enables users to file crime reports and complaints online with ease. The system also provides features to view crime rates, identify safe zones, and track reported incidents. Built with a MySQL backend, it ensures secure data storage and efficient case management for both users and administrators. The platform aims to enhance public safety by promoting accessible and transparent crime reporting.
